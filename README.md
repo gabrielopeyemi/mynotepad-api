@@ -1,4 +1,5 @@
 # MyNotepad project
+
 ## Description
 
 built with [Nest](https://github.com/nestjs/nest) framework TypeScript.
@@ -6,7 +7,7 @@ built with [Nest](https://github.com/nestjs/nest) framework TypeScript.
 ## Installation
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the app
