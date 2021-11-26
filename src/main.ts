@@ -12,7 +12,7 @@ async function bootstrap() {
     .addTag('NotePad')
     .build();
   const document = SwaggerModule.createDocument(app, config);
-  SwaggerModule.setup('api-docs', app, document);
+  SwaggerModule.setup('docs', app, document);
 
   await app.listen(9000);
 }
